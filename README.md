@@ -32,8 +32,6 @@ src/
 │   - Gpu_driver_install.sh
 │   - Docker_Azure_edge_install.sh 
 │        
-
-
 ```
 ---
 # Build and Test
